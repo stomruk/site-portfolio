@@ -1,0 +1,6 @@
+<blockquote class="snes-blockquote">
+    <button onClick={() => setContent(<About ref={aboutRef}></About>)} className="retro-button">Buton 1</button>
+    <button class="snes-button">Nature</button>
+    <button className="retro-button">Buton 3</button>
+    <button className="retro-button">Buton 4</button>
+</blockquote>

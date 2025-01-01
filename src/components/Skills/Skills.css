@@ -1,0 +1,17 @@
+.rangeStuff{
+    width: 350px!important;
+    z-index: 5;
+}
+/* .skillsSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 525px;
+} */
+.skillSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 525px;
+}
